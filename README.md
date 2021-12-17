@@ -1,5 +1,3 @@
-# MarketPlace
-
 <h2 align="center">MD Hub</h2>
 
 
